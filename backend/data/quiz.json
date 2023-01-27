@@ -1,0 +1,36 @@
+[
+    {
+        "title":"DBMS",
+        "questionArray":[
+            {
+                "title":"Easy",
+                "questions":"Which of the following is the full form of DDL?",
+                 "options":[
+                    {
+                        "option":"Data Definition Language",
+                        "isCorrect":1
+     
+                    },
+                    {
+                        "option":"Data Derivation Language",
+                        "isCorrect":0
+   
+                    },
+                    {
+                        "option":"Data Dynamic Language",
+                        "isCorrect":0
+                 
+                    },
+                    {
+                        "option":"Data Detailed Language",
+                        "isCorrect":0
+            
+                    }
+                 ],
+                 "correctAnswer":"Data Definition Language"
+            
+            }
+        ]
+        
+    }
+]
