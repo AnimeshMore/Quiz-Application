@@ -1,7 +1,7 @@
 
 ## Screenshots
 
-### Dashboard
+## Dashboard
 ![Dashboard](https://github.com/AnimeshMore/Quiz-Application/blob/master/Screenshots/dashboard.png?raw=true)
 
 
