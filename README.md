@@ -1,42 +1,43 @@
 
-## Screenshots
+## API Requirements
 
-## Dashboard
-![Dashboard](https://github.com/AnimeshMore/Quiz-Application/blob/master/Screenshots/dashboard.png?raw=true)
+Create a micro service for online Quiz (using NodeJS, Express, MongoDB)
 
+Design the following apis in the micro service.
 
-### All Quizzes
+# Authentication
 
-![Quizzes](https://github.com/AnimeshMore/Quiz-Application/blob/master/Screenshots/allquizzes.png?raw=true)
+a) Login
 
+b) Register
 
+c) JWT Authentication
 
-### Create Quiz
+# Quizzes
+a) List of all quizzes
 
-![Create](https://github.com/AnimeshMore/Quiz-Application/blob/master/Screenshots/createquiz1.png?raw=true)
+b) Single Quiz detail
 
-![Create](https://github.com/AnimeshMore/Quiz-Application/blob/master/Screenshots/createquiz2.png?raw=true)
+c) Create Quiz
 
+d) Participate in quiz
 
-### Quiz Details
+# Questions
 
-![Details](https://github.com/AnimeshMore/Quiz-Application/blob/master/Screenshots/quizdetails.png?raw=true)
+a) List of all questions
 
+b) Single Question detail
 
-### Participate in Quiz
+c) Create Question
 
-![Participate](https://github.com/AnimeshMore/Quiz-Application/blob/master/Screenshots/participate1.png?raw=true)
+d) Solve the question
 
+# Users
 
-![Participate](https://github.com/AnimeshMore/Quiz-Application/blob/master/Screenshots/participate2.png?raw=true)
+a) Add userquiz
 
+b) Single userquiz
 
-### Add Questions
+c) Add review
 
-![AddQuestions](https://github.com/AnimeshMore/Quiz-Application/blob/master/Screenshots/addquestion.png?raw=true)
-
-
-![AddQuestions](https://github.com/AnimeshMore/Quiz-Application/blob/master/Screenshots/addquestion2.png?raw=true)
-
-
-![AddQuestions](https://github.com/AnimeshMore/Quiz-Application/blob/master/Screenshots/addquestion3.png?raw=true)
+d) Delete Userquiz
