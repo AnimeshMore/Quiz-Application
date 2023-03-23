@@ -48,3 +48,7 @@ Design the following apis in the micro service.
 - [ ]  Userwise result
 
 - [ ]  Subjectwise result
+
+- [ ]  Show marks
+
+- [ ]  Delete result
