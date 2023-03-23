@@ -6,38 +6,45 @@ Create a micro service for online Quiz (using NodeJS, Express, MongoDB)
 Design the following apis in the micro service.
 
 # Authentication
+- [x]  Login 
 
-a) Login
+- [x]  Register
 
-b) Register
-
-c) JWT Authentication
+- [x]  JWT Authentication
 
 # Quizzes
-a) List of all quizzes
+- [x]  List of all quizzes
 
-b) Single Quiz detail
+- [x]  Single Quiz detail
 
-c) Create Quiz
+- [x]  Create Quiz
 
-d) Participate in quiz
+- [x]  Participate in quiz
 
 # Questions
 
-a) List of all questions
+- [x]  List of all questions
 
-b) Single Question detail
+- [x]  Single Question detail
 
-c) Create Question
+- [x] Create Question
 
-d) Solve the question
+- [x]  Solve the question
 
 # Users
 
-a) Add userquiz
+- [x]  Add userquiz
 
-b) Single userquiz
+- [x]  Single userquiz
 
-c) Add review
+- [x]  Add review
 
-d) Delete Userquiz
+- [x] Delete Userquiz
+
+# Result
+
+- [ ]  Show result
+
+- [ ]  Userwise result
+
+- [ ]  Subjectwise result
