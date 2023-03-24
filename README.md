@@ -10,6 +10,8 @@ Design the following apis in the micro service.
 
 - [x]  Register
 
+- [ ] Forgot Password
+
 - [x]  JWT Authentication
 
 # Quizzes
